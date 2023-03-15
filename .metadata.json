@@ -1,10 +1,10 @@
 [
   {
-    "package": "uptimeRobot",
+    "package": "sensibo.sky",
     "oncran": true
   },
   {
-    "package": "sensibo.sky",
+    "package": "uptimeRobot",
     "oncran": true
   }
 ]
