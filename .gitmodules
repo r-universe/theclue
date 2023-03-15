@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sensibo.sky"]
-	path = sensibo.sky
-	url = https://github.com/theclue/sensibo.sky
-	shallow = true
-	registered = true
 [submodule "uptimeRobot"]
 	path = uptimeRobot
 	url = https://github.com/theclue/uptimerobot
+	shallow = true
+	registered = true
+[submodule "sensibo.sky"]
+	path = sensibo.sky
+	url = https://github.com/theclue/sensibo.sky
 	shallow = true
 	registered = true
